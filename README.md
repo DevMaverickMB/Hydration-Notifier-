@@ -31,7 +31,4 @@ This Python application serves as a hydration notifier to remind users to drink 
 
 #### Developer:
 This application is developed by Milind Bhushan.
-
-For any inquiries or issues, feel free to contact the developer.
-
 ---
